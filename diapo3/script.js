@@ -1,5 +1,5 @@
 document.addEventListener("keydown", (e) => {
     if (e.key == " ") {
-        window.location = "./../diapo3/index.html"
+        window.location = "./../diapo4/index.html"
     }
 })
